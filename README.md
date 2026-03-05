@@ -23,3 +23,14 @@ Tenure Trends: Pinpointing the "Critical Retention Window."
 
 Culture Gap: Measuring the intersection of work-life balance and job satisfaction.
 
+
+📊 Dashboard Preview
+
+
+🛠️ How to Run
+Clone this repo.
+
+Download the dataset (or use the provided hr_tableau_friendly.csv).
+
+Run python3 main.py to generate the final processed data
+
