@@ -1,5 +1,5 @@
 # Workforce Analytics: HR Attrition & Retention Strategy
-🔗  https://public.tableau.com/app/profile/amulya.v.murthy/viz/EmployeeRetentionDashboard_17727141412210/EmployeeRetentionDashboard
+🔗  [View Live Tableau Dashboard Here](https://public.tableau.com/app/profile/amulya.v.murthy/viz/EmployeeRetentionDashboard_17727141412210/EmployeeRetentionDashboard)
 
 📌 The Problem
 High employee turnover is a hidden cost that impacts productivity and morale. Executives need to identify if attrition is driven by workload (burnout), specific tenure milestones (onboarding issues), or a broader culture gap. Analyzing raw HR data manually is insufficient for identifying these complex, intersecting variables.
