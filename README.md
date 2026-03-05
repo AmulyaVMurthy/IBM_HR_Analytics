@@ -25,7 +25,7 @@ Culture Gap: Measuring the intersection of work-life balance and job satisfactio
 
 
 📊 Dashboard Preview
-
+![Dashboard Screenshot](HR_Dashboard_preview.png)
 
 🛠️ How to Run
 Clone this repo.
