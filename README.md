@@ -24,6 +24,6 @@ Culture Gap
 ### 🛠️ How to Run
 
 1.Clone this repo.
-2.Download the ibm-hr-analytics-attrition-dataset [ (https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)]
-3.Run python3 main.py to generate the final processed data
+2.Download the ibm-hr-analytics-attrition-dataset [ (https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)].
+3.Run python3 main.py to generate the final processed data.
 
